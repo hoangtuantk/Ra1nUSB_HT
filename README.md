@@ -6,20 +6,18 @@
 1. USB dung lượng tối thiểu 4GB
 2. Máy tính CPU Intel hoặc AMD  
 
-> *Case*
-+ Các CPU Intel Core I, Xeon, Pentium, Celeron đều có thể cài.
-+ Đối với dòng Pentium và Celeron sẽ cần phải FakeCPUID thành Core I tương ứng.
+- *Case*
+  + Các CPU Intel Core I, Xeon, Pentium, Celeron đều có thể cài.
+  + Đối với dòng Pentium và Celeron sẽ cần phải FakeCPUID thành Core I tương ứng.
+- *Laptop và Case đồng bộ*
+  + Các CPU Intel Core I
 
-> *Laptop và Case đồng bộ*
-+ Các CPU Intel Core I
-
-<del>del</del>
 ## Cài đặt:
 - Dùng phần mềm [balenaEtcher](http://gg.gg/Etcher) hoặc [Transmac](http://gg.gg/Transmac) để tạo USB Boot ( Dùng [balenaEtcher](http://gg.gg/Etcher) sẽ nhanh hơn [Transmac](http://gg.gg/Transmac) rất nhiều )
-- Vào [BIOS](http://gg.gg/VaoBIOS) và Tắt Secure boot, SATA Mode : **``AHCI``**
-- Với bản **Intel**: Đã Fix khi boot **Legacy** . Ưu tiên boot **UEFI** nếu máy có
-- Với bản **AMD**: Chỉ có thể boot **UEFI**
-- Boot **UEFI** có các ``Options`` còn **Legacy** sẽ không có ( file **Ra1nUSB_HT** thì boot chuẩn nào cũng sẽ ra **UEFI** )
+- Vào [BIOS](http://gg.gg/VaoBIOS) và Tắt Secure boot, SATA Mode: **``AHCI``**
+- Bản **Intel**: Đã Fix khi boot **Legacy** . Ưu tiên boot **UEFI** nếu máy có
+- Bản **AMD**: Chỉ có thể boot **UEFI**
+- Boot **UEFI** có các **``Options``** còn **Legacy** sẽ không có ( file **Ra1nUSB_HT** thì boot chuẩn nào cũng sẽ ra **UEFI** )
 
 ![](https://i.ibb.co/jvdxbDw/image.png)
 
@@ -42,9 +40,9 @@ MoMo: https://nhantien.momo.vn/hoangtuan
 
 > **HOANG TRONG TUAN**
 
-> **``9704229201330339034`` - MBBank**
+> MBBank: **``9704229201330339034``**
 
-> **``9007041112687`` - Bản Việt - Viet Capital Bank**
+> Bản Việt - Viet Capital Bank: **``9007041112687``**
 
 ## Gõ lệnh trong Terminal
 #### *Chế độ thông thường bảng checkra1n màu trắng*
@@ -72,18 +70,21 @@ MoMo: https://nhantien.momo.vn/hoangtuan
   
 ![](https://i.ibb.co/3hW948M/image.png)
 
+
 #### *Chế độ cli (chế độ chờ DFU - tất cả các bản checkra1n đều có chế độ này)*
   - Thêm -cli ở sau: Ví Dụ: 097-cli , 122-cli , ...
 
 ![](https://i.ibb.co/2N0cbx9/image.png)
+
 
 #### *Chế độ bảng checkra1n màu đen (dùng được bàn phím để di chuyển - chỉ có từ checkra1n 0.9.8)*
   - Thêm d ở sau: Ví Dụ: 098d, 122d , ...
 
 ![](https://i.ibb.co/KG0qVmY/image.png)
 
+
 # Cách Fix Một Số Lỗi
-1. **Fix lỗi -20 ( Error code: -20 ) khi jailbreak** > [Video Hướng dẫn chi tiết](https://www.youtube.com/watch?v=x3mNPRHzNmU)
+1. **Fix lỗi -20 ( Error code: -20 ) khi jailbreak** [Video Hướng dẫn chi tiết](https://www.youtube.com/watch?v=x3mNPRHzNmU)
 
 ![](https://i.ibb.co/Y0jT1mM/image.png)
 
@@ -93,7 +94,6 @@ MoMo: https://nhantien.momo.vn/hoangtuan
 
 ![2](https://i.ibb.co/QnsRBkR/image.png)
 
-- Bây giờ ta tiến hành JailBreak lại
 2. [**Mở Etcher lên không hiện gì hết**](https://youtu.be/hu2LzbWRDi0) ( Nếu vẫn hiện thanh cài đặt thì dùng etcher bản chạy trực tiếp - Portable )
 3. [**Lỗi bị treo khi hiện 2 dòng**](https://youtu.be/01M_bGAfMyw)
 
@@ -125,4 +125,4 @@ MoMo: https://nhantien.momo.vn/hoangtuan
 
 # Cảm ơn các bạn đã sử dụng
 
-`Copyright by Hoàng Tuân © 2020 - 2021`
+`Copyright by Hoàng Tuân`
