@@ -17,3 +17,4 @@ Tải về có sẵn tại [releases](https://github.com/hoangtuantk/Ra1nUSB_HT/
 5. Chọn ổ USB.
 
 Hướng dẫn chi tiết [https://tuanrobert.blogspot.com/2020/04/ra1nusbht.html](https://tuanrobert.blogspot.com/2020/04/ra1nusbht.html)
+
