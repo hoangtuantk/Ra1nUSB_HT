@@ -1,8 +1,9 @@
 # Ra1nUSB_HT
 - File Ra1nUSB_HT này gồm có các phiên bản Checkra1n từ 0.9 đến 0.12.2
 - Mod lại từ bản Ra1nusb gốc của TTJB - Thủ thuật Jailbreak
+
 ---
-## ==Yêu Cầu==
+## Yêu Cầu
 1. USB dung lượng tối thiểu 4GB
 2. Máy tính CPU Intel hoặc AMD
 - ***Case***
@@ -11,8 +12,9 @@
 
 - ***Laptop và Case đồng bộ***
   + Các CPU Intel Core I
+
 ---
-## ==Cài đặt==
+## Cài đặt
 - Dùng phần mềm [balenaEtcher](http://gg.gg/Etcher) hoặc [Transmac](http://gg.gg/Transmac) để tạo USB Boot ( Dùng [balenaEtcher](http://gg.gg/Etcher) sẽ nhanh hơn [Transmac](http://gg.gg/Transmac) rất nhiều )
 - Vào [BIOS](http://gg.gg/VaoBIOS) và Tắt Secure boot, SATA Mode: **`AHCI`**
 - Bản Intel: Đã Fix khi boot **Legacy** . Ưu tiên boot **UEFI** nếu máy có
@@ -22,20 +24,24 @@
 ![](https://i.ibb.co/jvdxbDw/image.png)
 
 ---
-## ==Lưu Ý==
+## Lưu Ý
 - Bản Checkra1n **0.9.9**, **0.10.0** chỉ là bản **`beta`** không phải bản chính thức
 - Checkra1n chỉ hỗ trợ từ iphone **5s** đến iphone **X** ( chạy **ios 12.3** trở lên )
 - IOS từ **14.0** trở lên thì dùng checkra1n từ **0.11.0** đến **0.12.2**
 - IOS từ **13.4** đến **13.7** thì dùng bản checkra1n từ **0.9.9** đến **0.12.2**
 - IOS từ **13.0** đến **13.3.1** thì dùng bản checkra1n từ **0.9.2** đến **0.12.2** ( Trừ **5**s là khó có thể dùng được bản **0.9.8**, **0.9.8.x** ,**099** )
+
 ---
-## ==Link Download==
- - :link: [Releases](http://gg.gg/Ra1nusb_ht3)
- - :link: [Telegram](http://gg.gg/Telegram_HT)
- - :link: [GoogleDrive](http://gg.gg/Ra1nusb_ht1)
+## Link Download
+ :link: [Releases](http://gg.gg/Ra1nusb_ht3)
+ :link: [Telegram](http://gg.gg/Telegram_HT)
+ :link: [GoogleDrive](http://gg.gg/Ra1nusb_ht1)
+ 
 ---
-## ==Donate==
-**Paypal** https://www.paypal.me/hoangtuan09
+## Donate
+
+**Paypal:** https://www.paypal.me/hoangtuan09
+
 **MoMo:** https://nhantien.momo.vn/hoangtuan
 
 ![MoMo](https://i.ibb.co/hmZKmjx/image.png)
@@ -45,8 +51,9 @@
 > **MBBank: ``9704229201330339034``**
 
 > **Bản Việt - Viet Capital Bank: ``9007041112687``**
+
 ---
-## ==Gõ lệnh trong Terminal==
+## Gõ lệnh trong Terminal
 - #### *Chế độ thông thường bảng checkra1n màu trắng*
   - nhập **`09`**     sẽ ra **`Checkra1n 0.9`**
   - nhập **`091`**    sẽ ra **`Checkra1n 0.9.1`**
@@ -68,7 +75,7 @@
   - nhập **`121`**    sẽ ra **`Checkra1n 0.12.1`**
   - nhập **`122`**    sẽ ra **`Checkra1n 0.12.2`**
   - nhập **`fix20`**  sẽ ra **`minaUSB V1.1`** (Dùng để fix lỗi -20 khi JailBreak)
-  - nhập **`purple``** sẽ ra **`purple pro`**
+  - nhập **`purple`** sẽ ra **`purple pro`**
   
 ![](https://i.ibb.co/3hW948M/image.png)
 
@@ -79,16 +86,19 @@
 ![Mặc định](https://i.ibb.co/2N0cbx9/image.png)
 
 > Lưu ý
-	- Khi hiện chữ ++*Waiting for DFU decives*++ thì bạn phải tự đưa máy về DFU
-	- Chế độ DFU màn hình sẽ không hiện gì (màn hình màu đen) - còn Recovery Mode sẽ hiện như ảnh
+- Khi hiện chữ ++*Waiting for DFU decives*++ thì bạn phải tự đưa máy về DFU
+- Chế độ DFU màn hình sẽ không hiện gì (màn hình màu đen) - còn Recovery Mode sẽ hiện như ảnh
 
 ![](https://i.ibb.co/q9PSydP/image.png)
 
 - #### *Chế độ bảng checkra1n màu đen (dùng được bàn phím để di chuyển - chỉ có từ checkra1n 0.9.8)*
   - Thêm **`d`** ở sau: Ví Dụ: **`098d`**, **`122d`** , ...
+
 ![-cli](https://i.ibb.co/KG0qVmY/image.png)
+
 ---
-## ==Cách Fix Một Số Lỗi== (Tiêu đề lỗi có gán link video)
+## Cách Fix Một Số Lỗi (Tiêu đề lỗi có gán link video)
+
 1.[**Fix lỗi -20 ( Error code: -20 ) khi jailbreak**](https://www.youtube.com/watch?v=x3mNPRHzNmU)
 ![Đen](https://i.ibb.co/Y0jT1mM/image.png)
 
@@ -99,6 +109,7 @@
 ![2](https://i.ibb.co/QnsRBkR/image.png)
 
 2. [**Mở Etcher lên không hiện gì hết**](https://youtu.be/hu2LzbWRDi0)
+
 3. [**Lỗi bị treo khi hiện 2 dòng**](https://youtu.be/01M_bGAfMyw))
 
 ![](https://i.ibb.co/tCx7r5p/image.png)
@@ -127,7 +138,6 @@
  BOOT_HT\EFI\ CLOVER\drivers\UEFI và thay file **AptioMemoryFix.efi** bằng file [**OsxAptioFixDrv.efi**](http://www.mediafire.com/file/8qswr27dne3t1ub/OsxAptioFixDrv.efi/file) hoặc [**OsxAptioFix2Drv-free2000.efi**](http://www.mediafire.com/file/gz0qeodlyowxyto/OsxAptioFix2Drv-free2000.efi/file)
 
 ***Không phải tất cả các máy đều fix được theo các này. Mình đã fix được với 1 số máy case và đa số đều do lỗi ở phần khe cắm Ram***
-
 
 # Cảm ơn các bạn đã sử dụng
 
