@@ -46,26 +46,25 @@ MoMo: https://nhantien.momo.vn/hoangtuan
 
 ## Gõ lệnh trong Terminal
 #### *Chế độ thông thường bảng checkra1n màu trắng*
-  - nhập **``09``**   sẽ ra **``Checkra1n 0.9``**
-  - nhập **``091``**  sẽ ra **``Checkra1n 0.9.1``**
-  - nhập **``092``**  sẽ ra **``Checkra1n 0.9.2``**
-  - nhập **``093``**  sẽ ra **``Checkra1n 0.9.3``**
-  - nhập **``0932``** sẽ ra **``Checkra1n 0.9.3.2``**
-  - nhập **``095``**  sẽ ra **``Checkra1n 0.9.5``**
-  - nhập **``096``**  sẽ ra **``Checkra1n 0.9.6``**
-  - nhập **``097``**  sẽ ra **``Checkra1n 0.9.7``**
-  - nhập **``098``**  sẽ ra **``Checkra1n 0.9.8``**
-  - nhập **``0981``** sẽ ra **``Checkra1n 0.9.8.1``**
-  - nhập **``0982``** sẽ ra **``Checkra1n 0.9.8.2``**
-  - nhập **``099``**  sẽ ra **``Checkra1n 0.9.9``**
-  - nhập **``100``**  sẽ ra **``Checkra1n 0.10.0``**
-  - nhập **``101``**  sẽ ra **``Checkra1n 0.10.1 ``**
-  - nhập **``102``**  sẽ ra **``Checkra1n 0.10.2``**
-  - nhập **``110``**  sẽ ra **``Checkra1n 0.11.0``**
-  - nhập **``120``**  sẽ ra **``Checkra1n 0.12.0``**
-  - nhập **``121``**  sẽ ra **``Checkra1n 0.12.1``**
-  - nhập **``122``**  sẽ ra **``Checkra1n 0.12.2``**
-  
+  - nhập **``09``**     sẽ ra **``Checkra1n 0.9``**
+  - nhập **``091``**    sẽ ra **``Checkra1n 0.9.1``**
+  - nhập **``092``**    sẽ ra **``Checkra1n 0.9.2``**
+  - nhập **``093``**    sẽ ra **``Checkra1n 0.9.3``**
+  - nhập **``0932``**   sẽ ra **``Checkra1n 0.9.3.2``**
+  - nhập **``095``**    sẽ ra **``Checkra1n 0.9.5``**
+  - nhập **``096``**    sẽ ra **``Checkra1n 0.9.6``**
+  - nhập **``097``**    sẽ ra **``Checkra1n 0.9.7``**
+  - nhập **``098``**    sẽ ra **``Checkra1n 0.9.8``**
+  - nhập **``0981``**   sẽ ra **``Checkra1n 0.9.8.1``**
+  - nhập **``0982``**   sẽ ra **``Checkra1n 0.9.8.2``**
+  - nhập **``099``**    sẽ ra **``Checkra1n 0.9.9``**
+  - nhập **``100``**    sẽ ra **``Checkra1n 0.10.0``**
+  - nhập **``101``**    sẽ ra **``Checkra1n 0.10.1 ``**
+  - nhập **``102``**    sẽ ra **``Checkra1n 0.10.2``**
+  - nhập **``110``**    sẽ ra **``Checkra1n 0.11.0``**
+  - nhập **``120``**    sẽ ra **``Checkra1n 0.12.0``**
+  - nhập **``121``**    sẽ ra **``Checkra1n 0.12.1``**
+  - nhập **``122``**    sẽ ra **``Checkra1n 0.12.2``**
   - nhập **``fix20``**  sẽ ra **``minaUSB V1.1``** ( Dùng để fix lỗi -20 khi JailBreak )
   - nhập **``purple``** sẽ ra **`` purple pro``**
   
