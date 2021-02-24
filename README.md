@@ -33,8 +33,11 @@
 
 ---
 ## Link Download
+
  :link: [Releases](http://gg.gg/Ra1nusb_ht3)
+ 
  :link: [Telegram](http://gg.gg/Telegram_HT)
+ 
  :link: [GoogleDrive](http://gg.gg/Ra1nusb_ht1)
  
 ---
