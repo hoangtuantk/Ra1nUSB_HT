@@ -89,7 +89,7 @@
 ![Mặc định](https://i.ibb.co/2N0cbx9/image.png)
 
 > Lưu ý
-- Khi hiện chữ ++*Waiting for DFU decives*++ thì bạn phải tự đưa máy về DFU
+- Khi hiện chữ *Waiting for DFU decives* thì bạn phải tự đưa máy về DFU
 - Chế độ DFU màn hình sẽ không hiện gì (màn hình màu đen) - còn Recovery Mode sẽ hiện như ảnh
 
 ![](https://i.ibb.co/q9PSydP/image.png)
