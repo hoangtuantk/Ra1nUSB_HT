@@ -68,7 +68,7 @@
 
 :bank: **HOANG TRONG TUAN** :bank:
 
-   > **MBBank: ``1230103101998``**
+   > **MBBank: ``9704229201330339034``** ViettelPay
 
    > **Bản Việt - Viet Capital Bank: ``9007041112687``**
 
