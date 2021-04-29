@@ -1,6 +1,6 @@
 # Ra1nUSB_HT
 
-- File Ra1nUSB_HT này gồm có các phiên bản Checkra1n từ 0.9 đến 0.12.2
+- File Ra1nUSB_HT này gồm có các phiên bản Checkra1n từ 0.9 đến 0.12.3
 - Mod lại từ bản Ra1nusb gốc của TTJB - Thủ thuật Jailbreak
 
 ---
@@ -38,6 +38,7 @@
 ## Lưu Ý
 
 - Checkra1n chỉ hỗ trợ từ iphone **5s** đến iphone **X** ( chạy **ios 12.3** trở lên )
+- IOS từ **14.5** đến **14.6** dùng checkra1n từ **0.12.3** đến **0.12.3**
 - IOS từ **14.0** đến **14.4.2** dùng checkra1n từ **0.11.0** đến **0.12.2**
 - IOS từ **13.4** đến **13.7** dùng bản checkra1n từ **0.9.9** đến **0.12.2**
 - IOS từ **12.3** đến **13.3.1** dùng bản checkra1n từ **0.9.2** đến **0.12.2** ( Trừ **5**s là khó có thể dùng được bản **0.9.8**, **0.9.8.x** ,**099** )
@@ -95,6 +96,7 @@
   - nhập **`120`**    sẽ ra **`Checkra1n 0.12.0`**
   - nhập **`121`**    sẽ ra **`Checkra1n 0.12.1`**
   - nhập **`122`**    sẽ ra **`Checkra1n 0.12.2`**
+  - nhập **`123`**    sẽ ra **`Checkra1n 0.12.3`**
   - nhập **`fix20`**  sẽ ra **`minaUSB V1.1`** (Dùng để fix lỗi -20 khi JailBreak)
   - nhập **`purple`** sẽ ra **`purple pro`**
   
