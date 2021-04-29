@@ -39,9 +39,9 @@
 
 - Checkra1n chỉ hỗ trợ từ iphone **5s** đến iphone **X** ( chạy **ios 12.3** trở lên )
 - IOS từ **14.5** đến **14.6** dùng checkra1n từ **0.12.3** đến **0.12.3**
-- IOS từ **14.0** đến **14.4.2** dùng checkra1n từ **0.11.0** đến **0.12.2**
-- IOS từ **13.4** đến **13.7** dùng bản checkra1n từ **0.9.9** đến **0.12.2**
-- IOS từ **12.3** đến **13.3.1** dùng bản checkra1n từ **0.9.2** đến **0.12.2** ( Trừ **5**s là khó có thể dùng được bản **0.9.8**, **0.9.8.x** ,**099** )
+- IOS từ **14.0** đến **14.4.2** dùng checkra1n từ **0.11.0** đến **0.12.3**
+- IOS từ **13.4** đến **13.7** dùng bản checkra1n từ **0.9.9** đến **0.12.3**
+- IOS từ **12.3** đến **13.3.1** dùng bản checkra1n từ **0.9.2** đến **0.12.3** ( Trừ **5**s là khó có thể dùng được bản **0.9.8**, **0.9.8.x** ,**099** )
 
 ---
 
