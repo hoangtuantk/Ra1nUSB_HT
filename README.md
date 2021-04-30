@@ -146,13 +146,12 @@
 - Giữ đồng thời phím nguồn và giảm âm lượng đến khi hiện logo táo
 - Thả phím nguồn nhưng vấn giữ phím giảm âm lượng cho đến khi máy vào Recovery Mode
 
-*c. iPhone 8, 8 Plus, X
-*
+*c. iPhone 8, 8 Plus, X*
+
 - Vẫn cắm cable kết nối với PC
 - Bấm tăng âm lượng (thả ra luôn)
 - Bấm giảm âm lượng (thả ra luôn)
 - Giữ phím nguồn cho đến khi máy vào Recovery Mode
-
 
 2. [**Fix lỗi -20 ( Error code: -20 ) khi jailbreak**](https://www.youtube.com/watch?v=x3mNPRHzNmU)
 
