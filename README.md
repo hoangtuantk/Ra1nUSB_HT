@@ -126,8 +126,35 @@
 
 ## Cách Fix Một Số Lỗi (Tiêu đề lỗi có gán link video)
 
+1. **Fix lỗi khi bấm Start (Máy không tự động vào Recovery Mode)**
 
-1.[**Fix lỗi -20 ( Error code: -20 ) khi jailbreak**](https://www.youtube.com/watch?v=x3mNPRHzNmU)
+![](https://i.ibb.co/nfc0PCh/789897.png)
+
+**- Cách khắc phục là bạn phải tự đưa máy vào Recovery Mode**
+
+ -Cách vào Recovery Mode cho bạn nào chưa biết-
+
+*a. iPhone 6S, 6S Plus trở xuống*
+
+- Vẫn cắm cable kết nối với PC
+- Giữ đồng thời phím nguồn và home đến khi hiện logo táo
+- Thả phím nguồn nhưng vấn giữ phím home cho đến khi máy vào Recovery Mode
+
+*b. iPhone 7, 7 Plus*
+
+- Vẫn cắm cable kết nối với PC
+- Giữ đồng thời phím nguồn và giảm âm lượng đến khi hiện logo táo
+- Thả phím nguồn nhưng vấn giữ phím giảm âm lượng cho đến khi máy vào Recovery Mode
+
+*c. iPhone 8, 8 Plus, X
+*
+- Vẫn cắm cable kết nối với PC
+- Bấm tăng âm lượng (thả ra luôn)
+- Bấm giảm âm lượng (thả ra luôn)
+- Giữ phím nguồn cho đến khi máy vào Recovery Mode
+
+
+2. [**Fix lỗi -20 ( Error code: -20 ) khi jailbreak**](https://www.youtube.com/watch?v=x3mNPRHzNmU)
 
    ![-20](https://i.ibb.co/Y0jT1mM/image.png)
 
@@ -137,23 +164,23 @@
 
      ![2](https://i.ibb.co/QnsRBkR/image.png)
 
-2. [**Mở Etcher lên không hiện gì hết**](https://youtu.be/hu2LzbWRDi0)
+3. [**Mở Etcher lên không hiện gì hết**](https://youtu.be/hu2LzbWRDi0)
 
-3. [**Lỗi bị treo khi hiện 2 dòng**](https://youtu.be/01M_bGAfMyw))
+4. [**Lỗi bị treo khi hiện 2 dòng**](https://youtu.be/01M_bGAfMyw))
 
    ![](https://i.ibb.co/tCx7r5p/image.png)
 
-4. [**CPU Pentium, Celeron**](https://youtu.be/3JGVwGDNbgU)
+5. [**CPU Pentium, Celeron**](https://youtu.be/3JGVwGDNbgU)
 
    ![](https://i.ibb.co/Sm7t5pb/image.png)
 
-5. [**Lỗi khi boot Legacy( đối với bản Ra1nUSB_HT thì đã được fix sẵn rồi )**](https://youtu.be/3ZRhob7g_CY) Code: 1 , AHCI...
+6. [**Lỗi khi boot Legacy( đối với bản Ra1nUSB_HT thì đã được fix sẵn rồi )**](https://youtu.be/3ZRhob7g_CY) Code: 1 , AHCI...
 
    ![1](https://i.ibb.co/J5qqvBs/image.png)
 
    ![2](https://i.ibb.co/HNXZtC9/image.png)
 
-6. **Lỗi chỉ hiện gạch ngang khi boot vào**
+7. **Lỗi chỉ hiện gạch ngang khi boot vào**
 
    ![](https://i.ibb.co/L5Gy5DM/image.png)
 
