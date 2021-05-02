@@ -138,19 +138,19 @@
 
 *a. iPhone 6S, 6S Plus trở xuống*
 
-- Vẫn cắm cable kết nối với PC
+- Cắm cable kết nối với PC
 - Giữ đồng thời phím nguồn và home đến khi hiện logo táo
-- Thả phím nguồn nhưng vấn giữ phím home cho đến khi máy vào Recovery Mode
+- Thả phím nguồn nhưng vẫn giữ phím home cho đến khi máy vào Recovery Mode
 
 *b. iPhone 7, 7 Plus*
 
-- Vẫn cắm cable kết nối với PC
+- Cắm cable kết nối với PC
 - Giữ đồng thời phím nguồn và giảm âm lượng đến khi hiện logo táo
-- Thả phím nguồn nhưng vấn giữ phím giảm âm lượng cho đến khi máy vào Recovery Mode
+- Thả phím nguồn nhưng vẫn giữ phím giảm âm lượng cho đến khi máy vào Recovery Mode
 
 *c. iPhone 8, 8 Plus, X*
 
-- Vẫn cắm cable kết nối với PC
+- Cắm cable kết nối với PC
 - Bấm tăng âm lượng (thả ra luôn)
 - Bấm giảm âm lượng (thả ra luôn)
 - Giữ phím nguồn cho đến khi máy vào Recovery Mode
@@ -200,7 +200,7 @@
 [**OsxAptioFixDrv.efi**]:http://www.mediafire.com/file/8qswr27dne3t1ub/OsxAptioFixDrv.efi/file
 [**OsxAptioFix2Drv-free2000.efi**]:http://www.mediafire.com/file/gz0qeodlyowxyto/OsxAptioFix2Drv-free2000.efi/file
 
-***Không phải tất cả các máy đều fix được theo các này. Mình đã fix được với 1 số máy case và đa số đều do lỗi ở phần khe cắm Ram***
+***Không phải tất cả các máy đều fix được theo cách này. Mình đã fix được với 1 số máy case và đa số đều do lỗi ở phần khe cắm Ram***
 
 # Cảm ơn các bạn đã sử dụng
 
