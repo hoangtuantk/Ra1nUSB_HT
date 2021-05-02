@@ -132,6 +132,8 @@
 
 **- Cách khắc phục là bạn phải tự đưa máy vào Recovery Mode**
 
+   ![](https://i.ibb.co/q9PSydP/image.png)
+
  -Cách vào Recovery Mode cho bạn nào chưa biết-
 
 *a. iPhone 6S, 6S Plus trở xuống*
