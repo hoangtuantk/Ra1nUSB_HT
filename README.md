@@ -1,7 +1,8 @@
 # Ra1nUSB_HT
 
 - File Ra1nUSB_HT này gồm có các phiên bản Checkra1n từ 0.9 đến 0.12.3
-- Mod lại từ bản Ra1nusb gốc của TTJB - Thủ thuật Jailbreak
+- Blog https://tuanrobert.blogspot.com/2020/04/ra1nusbht.html
+- Khi có bản Checkra1n mới mà bạn không muốn tạo lại bộ cài thì xem [Video](https://youtu.be/sEdw-bNmmVg) để tự thêm bản Checkra1n mới vào
 
 ---
 ## Yêu Cầu
