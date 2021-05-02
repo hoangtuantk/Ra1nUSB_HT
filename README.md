@@ -21,11 +21,11 @@
 ---
 ## Cài đặt
 
-- Dùng phần mềm [balenaEtcher] hoặc [Transmac] để tạo USB Boot ( Dùng [balenaEtcher] sẽ nhanh hơn [Transmac] rất nhiều )
-- Vào [BIOS] và Tắt Secure boot, SATA Mode: **`AHCI`**
+- Dùng phần mềm [balenaEtcher] hoặc [Transmac] để tạo USB Boot (Dùng [balenaEtcher] sẽ nhanh hơn [Transmac] rất nhiều)
+- Vào [BIOS] và Tắt Secure boot, SATA Mode:**`AHCI`**
 - Bản Intel: Đã Fix khi boot **Legacy** . Ưu tiên boot **UEFI** nếu máy có
 - Bản AMD: Chỉ có thể boot **UEFI**
-- Boot UEFI có các **`Options`** còn **Legacy** sẽ không có ( file Ra1nUSB_HT thì boot chuẩn nào cũng sẽ ra **UEFI** )
+- Boot UEFI có các **`Options`** còn **Legacy** sẽ không có (file Ra1nUSB_HT thì boot chuẩn nào cũng sẽ ra **UEFI**)
 
 [balenaEtcher]:http://gg.gg/Etcher
 [Transmac]:http://gg.gg/Transmac
@@ -37,11 +37,11 @@
 
 ## Lưu Ý
 
-- Checkra1n chỉ hỗ trợ từ iphone **5s** đến iphone **X** ( chạy **ios 12.3** trở lên )
-- IOS từ **14.5** đến **14.6** dùng checkra1n từ **0.12.3** đến **0.12.3**
-- IOS từ **14.0** đến **14.4.2** dùng checkra1n từ **0.11.0** đến **0.12.3**
-- IOS từ **13.4** đến **13.7** dùng bản checkra1n từ **0.9.9** đến **0.12.3**
-- IOS từ **12.3** đến **13.3.1** dùng bản checkra1n từ **0.9.2** đến **0.12.3** ( Trừ **5**s là khó có thể dùng được bản **0.9.8**, **0.9.8.x** ,**099** )
+- Checkra1n chỉ hỗ trợ từ iPhone **5s** (Chip **A7**) đến iPhone **X** (Chip **A11**)
+- iOS **14.5** > **14.6** dùng Checkra1n **0.12.3** > **0.12.3**
+- iOS **14.0** > **14.4.2** dùng Checkra1n **0.11.0** > **0.12.3**
+- iOS **13.4** > **13.7** dùng Checkra1n **0.9.9** > **0.12.3**
+- iOS **12.3** > **13.3.1** dùng Checkra1n **0.9.2** > **0.12.3** (Trừ **5**s là khó có thể dùng được bản **0.9.8**, **0.9.8.x** ,**099**)
 
 ---
 
@@ -136,7 +136,7 @@
 
  -Cách vào Recovery Mode cho bạn nào chưa biết-
 
-*a. iPhone 6S, 6S Plus trở xuống*
+*a. iPhone 5s, 6, 6 Plus, 6s, 6s Plus*
 
 - Cắm cable kết nối với PC
 - Giữ đồng thời phím nguồn và home đến khi hiện logo táo
@@ -189,8 +189,8 @@
 
 - Hãy thử các cách bên dưới với bản Ra1nUSB đúng với CPU đang dùng trước, rồi sau đó thử lại với bản của CPU khác
 
-  - Đổi khe cắm Ram nếu đang cắm 1 thanh.  ( ưu tiên cắm vào slot 1 )
-  - Rút bớt Ram ra và thử lại nếu có nhiều thanh ( ưu tiên cắm vào slot 1 )
+  - Đổi khe cắm Ram nếu đang cắm 1 thanh.  (ưu tiên cắm vào slot 1)
+  - Rút bớt Ram ra và thử lại nếu có nhiều thanh (ưu tiên cắm vào slot 1)
 
 - Nếu vẫn bị thì làm theo như sau:
 
@@ -201,6 +201,12 @@
 [**OsxAptioFix2Drv-free2000.efi**]:http://www.mediafire.com/file/gz0qeodlyowxyto/OsxAptioFix2Drv-free2000.efi/file
 
 ***Không phải tất cả các máy đều fix được theo cách này. Mình đã fix được với 1 số máy case và đa số đều do lỗi ở phần khe cắm Ram***
+
+**- Lỗi này cũng sẽ xảy ra đối với các trường hợp**
+
++ Cấu hình máy không hỗ trợ
++ File **config** không phù hợp với máy (Bạn phải tự tìm kiếm file **config** phù hợp trong các group cũng như diễn đàn về hackintosh)
++ Chưa chỉnh chuẩn **BIOS**
 
 # Cảm ơn các bạn đã sử dụng
 
