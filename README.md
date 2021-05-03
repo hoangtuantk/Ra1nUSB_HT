@@ -131,7 +131,8 @@
 
 ![](https://i.ibb.co/nfc0PCh/789897.png)
 
-**- Cách khắc phục là bạn phải tự đưa máy vào Recovery Mode**
+- Kết nối lại điện thoại với  PC và bấm Tin cậy
+- Nếu không bạn phải tự đưa máy vào Recovery Mode
 
    ![](https://i.ibb.co/q9PSydP/image.png)
 
