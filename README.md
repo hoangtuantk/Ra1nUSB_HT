@@ -199,8 +199,8 @@
   - Mở phân vùng BOOT của USB dung lượng 200MB rồi vào đường dẫn sau
  BOOT_HT\EFI\ CLOVER\drivers\UEFI và thay file **AptioMemoryFix.efi** bằng file [**OsxAptioFixDrv.efi**] hoặc [**OsxAptioFix2Drv-free2000.efi**]
 
-[**OsxAptioFixDrv.efi**]:http://www.mediafire.com/file/8qswr27dne3t1ub/OsxAptioFixDrv.efi/file
-[**OsxAptioFix2Drv-free2000.efi**]:http://www.mediafire.com/file/gz0qeodlyowxyto/OsxAptioFix2Drv-free2000.efi/file
+[**OsxAptioFixDrv.efi**]:https://www.mediafire.com/file/8qswr27dne3t1ub/OsxAptioFixDrv.efi/file
+[**OsxAptioFix2Drv-free2000.efi**]:https://www.mediafire.com/file/gz0qeodlyowxyto/OsxAptioFix2Drv-free2000.efi/file
 
 ***Không phải tất cả các máy đều fix được theo cách này. Mình đã fix được với 1 số máy case và đa số đều do lỗi ở phần khe cắm Ram***
 
