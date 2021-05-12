@@ -1,6 +1,6 @@
 # Ra1nUSB_HT
 
-- File Ra1nUSB_HT này gồm có các phiên bản Checkra1n từ 0.9 đến 0.12.3
+- File Ra1nUSB_HT này gồm có các phiên bản Checkra1n từ 0.9 đến 0.12.4
 - Blog https://tuanrobert.blogspot.com/2020/04/ra1nusbht.html
 - Khi có bản Checkra1n mới mà bạn không muốn tạo lại bộ cài thì xem [Video](https://youtu.be/sEdw-bNmmVg) để tự thêm bản Checkra1n mới vào
 
@@ -39,10 +39,10 @@
 ## Lưu Ý
 
 - Checkra1n chỉ hỗ trợ từ iPhone **5s** (Chip **A7**) đến iPhone **X** (Chip **A11**)
-- iOS **14.5** > **14.6** dùng Checkra1n **0.12.3** > **0.12.3**
-- iOS **14.0** > **14.4.2** dùng Checkra1n **0.11.0** > **0.12.3**
-- iOS **13.4** > **13.7** dùng Checkra1n **0.9.9** > **0.12.3**
-- iOS **12.3** > **13.3.1** dùng Checkra1n **0.9.2** > **0.12.3** (Trừ **5**s là khó có thể dùng được bản **0.9.8**, **0.9.8.x** ,**099**)
+- iOS **14.5** > **14.6** dùng Checkra1n **0.12.3** > **0.12.4**
+- iOS **14.0** > **14.4.2** dùng Checkra1n **0.11.0** > **0.12.4**
+- iOS **13.4** > **13.7** dùng Checkra1n **0.9.9** > **0.12.4**
+- iOS **12.3** > **13.3.1** dùng Checkra1n **0.9.2** > **0.12.4** (Trừ **5**s là khó có thể dùng được bản **0.9.8**, **0.9.8.x** ,**099**)
 
 ---
 
@@ -98,6 +98,7 @@
   - nhập **`121`**    sẽ ra **`Checkra1n 0.12.1`**
   - nhập **`122`**    sẽ ra **`Checkra1n 0.12.2`**
   - nhập **`123`**    sẽ ra **`Checkra1n 0.12.3`**
+  - nhập **`124`**    sẽ ra **`Checkra1n 0.12.4`**
   - nhập **`fix20`**  sẽ ra **`minaUSB V1.1`** (Dùng để fix lỗi -20 khi JailBreak)
   - nhập **`purple`** sẽ ra **`purple pro`**
   
