@@ -48,8 +48,7 @@
 
 ## Link Download
 
- ### :link: [Dowwnload](http://gg.gg/Ra1nUSB_HT)
- 
+ ### :link: [Download](http://gg.gg/Ra1nUSB_HT)
  
 ---
 
