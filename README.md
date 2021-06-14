@@ -28,9 +28,9 @@
 - Bản AMD: Chỉ có thể boot **UEFI**
 - Boot UEFI có các **`Options`** còn **Legacy** sẽ không có (file Ra1nUSB_HT thì boot chuẩn nào cũng sẽ ra **UEFI**)
 
-[balenaEtcher]:http://gg.gg/Etcher
-[Transmac]:http://gg.gg/Transmac
-[BIOS]:http://gg.gg/VaoBIOS
+[balenaEtcher]:https://bit.ly/etcherht
+[Transmac]:https://www.mediafire.com/file/0hrk9haby7dm0g0/
+[BIOS]:https://docs.google.com/document/d/e/2PACX-1vQ-lgeAgC5cHErtuU658zOMIdCimsdcimiW6VUzEfKFyr4W2uz3ZQ8XX9GKY4UMgH8LG93X0YAKWYEC/pub
 
    ![UEFI vs Legacy](https://i.ibb.co/jvdxbDw/image.png)
 
@@ -48,7 +48,7 @@
 
 ## Link Download
 
- ### :link: [Download](https://docs.google.com/document/d/e/2PACX-1vSdmy_3zDG7vxs3cZu9hS22xp53JRDKds5-EIRjpgE8nWJlToeAgjw8WzaulPzWptMEw1HMONdkaKNf/pub)
+ ### :link: [Download](https://bit.ly/ra1nusbht)
  
 ---
 
