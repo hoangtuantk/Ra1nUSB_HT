@@ -48,7 +48,7 @@
 
 ## Link Download
 
- ### :link: [Download](http://gg.gg/Ra1nUSB_HT)
+ ### :link: [Download](https://docs.google.com/document/d/e/2PACX-1vSdmy_3zDG7vxs3cZu9hS22xp53JRDKds5-EIRjpgE8nWJlToeAgjw8WzaulPzWptMEw1HMONdkaKNf/pub)
  
 ---
 
